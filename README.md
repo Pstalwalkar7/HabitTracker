@@ -1,0 +1,2 @@
+This is a project to track daily habits. A detailed readme will follow, but the general idea is to provide users with a convenient dashboard that encourages users to log their daily habits, view how they have stuck to it over the past few months, etc.
+ 
